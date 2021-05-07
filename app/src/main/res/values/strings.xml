@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Weather App</string>
+    <string-array name="cities">
+        <item>Atlanta</item>
+        <item>Colombia</item>
+        <item>Austin</item>
+        <item>Montgomery</item>
+        <item>Jackson</item>
+        <item>Baton Rouge</item>
+        <item>Tallahassee</item>
+        <item>Nashville</item>
+        <item>Raleigh</item>
+        <item>Richmond</item>
+        <item>Frankfort</item>
+        <item>Little Rock</item>
+    </string-array>
+</resources>
